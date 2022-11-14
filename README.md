@@ -6,11 +6,11 @@
 
 ## Latest _Disruptive Library Technology Jester_ blog entries
 <!-- BLOG-POST-LIST:START -->
+- [OCLC v. Clarivate: What was MetaDoor? What is an OCLC Record?](https://dltj.org/article/oclc-v-clarivate/)
 - [Automatically Generating Podcast Transcripts](https://dltj.org/article/generating-podcast-transcripts/)
 - [Trip Report: NISO Plus Forum 2022](https://dltj.org/article/niso-plus-forum-2022/)
 - [Issue 90: When Machine Learning Goes Wrong](https://dltj.org/article/issue-90-when-ml-goes-wrong/)
 - [Issue 89: Ukraine’s Libraries, Russia’s Internet, and the Big Deal](https://dltj.org/article/issue-89-ukraine-libraries-russia-internet/)
-- [Sanctioning Governments on the Internet](https://dltj.org/article/internet-sanctions/)
 <!-- BLOG-POST-LIST:END -->
 
 
