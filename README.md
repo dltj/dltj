@@ -6,11 +6,11 @@
 
 ## Latest _Disruptive Library Technology Jester_ blog entries
 <!-- BLOG-POST-LIST:START -->
+- [Issue 116: Government Surveillance](https://dltj.org/article/issue-116-government-surveillance)
 - [Issue 115: Public and Private Camera Networks](https://dltj.org/article/issue-115-camera-networks)
 - [My Public Archive of #TeslaTakedown Protest Signs](https://dltj.org/article/tesla-takedown-protest-signs)
 - [Issue 114: Digital Privacy](https://dltj.org/article/issue-114-digital-privacy)
 - [Holy cow—did the people show up for today&#39;s #TeslaTakedown!](https://dltj.org/article/tesla-takedown-march-29)
-- [Issue 113: More on Copyright and Foundational AI Models](https://dltj.org/article/issue-113-llm-copyright)
 <!-- BLOG-POST-LIST:END -->
 
 
