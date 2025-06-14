@@ -9,7 +9,7 @@
 - [Issue 117: Local Government Surveillance](https://dltj.org/article/issue-117-local-government-surveillance)
 - [Issue 116: Government Surveillance](https://dltj.org/article/issue-116-government-surveillance)
 - [Issue 115: Public and Private Camera Networks](https://dltj.org/article/issue-115-camera-networks)
-- [My Public Archive of #TeslaTakedown Protest Signs](https://dltj.org/article/tesla-takedown-protest-signs)
+- [My Public Archive of Protest Signs](https://dltj.org/article/tesla-takedown-protest-signs)
 - [Issue 114: Digital Privacy](https://dltj.org/article/issue-114-digital-privacy)
 <!-- BLOG-POST-LIST:END -->
 
